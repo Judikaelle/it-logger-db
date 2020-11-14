@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "message": "Check computers room 009",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-11-14T09:13:36.799Z",
+      "id": 1
+    },
+    {
+      "message": "Install soft break room",
+      "attention": false,
+      "tech": "Greg Harris",
+      "date": "2020-11-14T09:14:32.681Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Harris",
+      "id": 4
+    }
+  ]
+}
